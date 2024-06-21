@@ -11,8 +11,11 @@ Database Connection: Utilizes the PostgreSQL JDBC driver to establish a robust c
 CRUD Operations: Implements all four basic database operations:
 
 Create: Insert new employee records
+
 Read: Retrieve and display employee data
+
 Update: Modify existing employee information
+
 Delete: Remove employee records from the database
 
 Purpose
