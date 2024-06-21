@@ -22,7 +22,10 @@ Purpose
 This project serves as a practical example of Java-PostgreSQL integration, ideal for:
 
 Developers new to JDBC concepts
+
 Those looking to understand database operations in Java
+
 Anyone seeking a foundation for building more complex database-driven applications
 
-By exploring this codebase, you'll gain insights into the essential components of Java database connectivity and how to perform basic data manipulation tasks using SQL within a Java environment.
+By exploring this codebase, you'll gain insights into the essential components of Java database 
+connectivity and how to perform basic data manipulation tasks using SQL within a Java environment.
