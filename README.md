@@ -4,11 +4,11 @@ This project demonstrates the implementation of CRUD (Create, Read, Update, Dele
 interfacing with a PostgreSQL database. It focuses on managing data in an emp table, 
 showcasing the fundamental aspects of Java Database Connectivity (JDBC) with PostgreSQL.
 
-Key Features
+# Key Features
 
 Database Connection: Utilizes the PostgreSQL JDBC driver to establish a robust connection between Java and PostgreSQL.
 
-CRUD Operations: Implements all four basic database operations:
+# CRUD Operations: Implements all four basic database operations:
 
 Create: Insert new employee records
 
@@ -18,7 +18,7 @@ Update: Modify existing employee information
 
 Delete: Remove employee records from the database
 
-Purpose
+# Purpose
 This project serves as a practical example of Java-PostgreSQL integration, ideal for:
 
 Developers new to JDBC concepts
